@@ -80,21 +80,21 @@ analytics:
 # Site Author
 author:
   name             : "Marco Vazquez"
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  avatar           : "/assets/images/bio-photo.jpeg"
+  bio              : "IT Professional & Tech Enthusiast"
+  location         : "Seattle, hard_wrap"
   email            :
   uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : 
   foursquare       :
-  github           : "mmistakes"
+  github           : "marcorvazquezs"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : "marcorvazquez"
   lastfm           :
   linkedin         :
   pinterest        :

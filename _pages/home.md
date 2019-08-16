@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+layout: single
 permalink: /
 author_profile: true 
 classes: wide

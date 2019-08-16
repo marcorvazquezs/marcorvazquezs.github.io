@@ -10,7 +10,7 @@ I enjoy tackling new challenges, learning new technologies, finding solutions to
 
 I am a goal driven person, always striving toward bigger and more ambitious goals. 
 
-###Certifications 
+### Certifications 
 
-<script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2af94dd0-4a7b-4414-8c35-25d33d635f1c"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 

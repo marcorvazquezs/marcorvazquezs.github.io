@@ -4,7 +4,8 @@ layout: single
 permalink: /
 author_profile: true 
 header: 
-	image: "/images/nerworkss-002.jpg"
+	image: "/images/bg2.jpg"
+
 ---
 
 I am an IT Professional with a passion for technology and cybersecurity. 

@@ -1,8 +1,10 @@
 ---
-layout: home
+
 title: "About Me"
 permalink: /
 author_profile: true 
+header: 
+	image: "/assets/images/bg2.jpg"
 
 ---
 

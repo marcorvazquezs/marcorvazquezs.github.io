@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marco Vazquez"
 description              : "IT Professional & Tech Enthusiast"
-url                      : "https://marcorvazquez.com"
+url                      : "https://marcorvazquez.com/about"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "marcorvazquezs/marcorvazquezs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

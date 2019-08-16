@@ -2,6 +2,7 @@
 title: "About Me"
 permalink: /
 author_profile: true 
+classes: wide
 ---
 
 I am an IT Professional with a passion for technology and cybersecurity. 

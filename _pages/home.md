@@ -1,9 +1,7 @@
 ---
-
 title: "About Me"
 permalink: /
 author_profile: true 
-
 ---
 
 I am an IT Professional with a passion for technology and cybersecurity. 

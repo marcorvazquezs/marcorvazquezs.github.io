@@ -24,7 +24,15 @@ I am a goal driven person, always striving toward bigger and more ambitious goal
 
 ## Experience 
 
-Rubica, Inc. 
+Rubica, Inc. - *Seattle, WA*
 
+*InfoSec Administrator (08/19 - Present)*
+
+*TechOps Specialist (01/19 - 07/19)*
+
+
+Office of the State Courts Administrator - *Tallahassee, FL*
+
+*Senior User Support Analyst (03/15 - 01/19)
 
 

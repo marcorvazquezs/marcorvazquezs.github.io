@@ -24,7 +24,7 @@ I am a goal driven person, always striving towards bigger and more ambitious goa
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b197c37d-0da9-4561-ab66-98fadcfefa29"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4d518b9a-861d-44f1-9028-bd34eefd4146"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 ## Experience 
 
@@ -39,4 +39,10 @@ __Office of the State Courts Administrator - *Tallahassee, FL*__
 
 *Senior User Support Analyst (03/15 - 01/19)*
 
+## Education 
+
+__Western Governors University__
+
+*Bachelor of Science* 
+Network Operations and Security
 

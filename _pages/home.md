@@ -44,5 +44,6 @@ __Office of the State Courts Administrator - *Tallahassee, FL*__
 __Western Governors University__
 
 *Bachelor of Science* 
+
 Network Operations and Security
 

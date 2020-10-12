@@ -32,7 +32,7 @@ __Rubica, Inc. - *Seattle, WA*__
 
 *Junior Cloud Engineer (01/20 - Present)*
 
-*  #####In 2020 started taking on tasks under the VPN Engineering team
+*  In 2020 started taking on tasks under the VPN Engineering team
 *  Deployed, managed and optimized cloud infrastructure that supported application services
 *  Focused on automating routine tasks to provide scalability to operations using Ansible
 *  Utilized JIRA/Git for incident, problem and change management

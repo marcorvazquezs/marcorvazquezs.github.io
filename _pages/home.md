@@ -30,7 +30,7 @@ I am a goal driven person, always striving towards bigger and more ambitious goa
 
 __Rubica, Inc. - *Seattle, WA*__
 
-*Junior Cloud Engineer (01/20 - Present)*
+__*Junior Cloud Engineer (01/20 - Present)*__
 
 *  In 2020 started taking on tasks under the VPN Engineering team
 *  Deployed, managed and optimized cloud infrastructure that supported application services

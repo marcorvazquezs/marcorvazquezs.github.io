@@ -55,9 +55,8 @@ __Office of the State Courts Administrator - *Tallahassee, FL*__
 
 __Western Governors University__
 
-*Bachelor of Science, Network Operations and Security*
-
-June 2020 
+*Master of Science, Cybersecurity and Information Assurance* | Expected 2022 
+*Bachelor of Science, Network Operations and Security* | June 2020 
 
 
 

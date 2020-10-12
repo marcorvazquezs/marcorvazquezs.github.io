@@ -30,6 +30,8 @@ I am a goal driven person, always striving towards bigger and more ambitious goa
 
 __Rubica, Inc. - *Seattle, WA*__
 
+*Junior Cloud Engineer (01/20 - Present)*
+
 *InfoSec Administrator (08/19 - Present)*
 
 *TechOps Specialist (01/19 - 07/19)*

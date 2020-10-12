@@ -32,22 +32,23 @@ __Rubica, Inc. - *Seattle, WA*__
 
 *Junior Cloud Engineer (01/20 - Present)*
 
-*In 2020 started taking on tasks under the VPN Engineering team
+    *  In 2020 started taking on tasks under the VPN Engineering team
 
-*Deployed, managed and optimized cloud infrastructure that supported application services
+    *  Deployed, managed and optimized cloud infrastructure that supported application services
 
--Focused on automating routine tasks to provide scalability to operations using Ansible
+    *  Focused on automating routine tasks to provide scalability to operations using Ansible
 
-*Utilized JIRA/Git for incident, problem and change management
-*Maintained monitoring & security tools: Constellix Sonar, StatusCake, and Zabbix
+    *  Utilized JIRA/Git for incident, problem and change management
 
-*Created monitoring and alerting notifications for production components
+    *  Maintained monitoring & security tools: Constellix Sonar, StatusCake, and Zabbix
 
-*Provided daily support in the areas of cloud networking (routing, switching, firewall, security and load balancing technologies)
+    *  Created monitoring and alerting notifications for production components
 
-*Cloud Providers: AWS (IAM, VPC, EC2, ALB, and Aurora MySQL), DigitalOcean, Vultr, Equinix Metal (Packet)
+    *  Provided daily support in the areas of cloud networking (routing, switching, firewall, security and load balancing technologies)
 
-*Tech Stack: Ansible,  Vagrant, VirtualBox, Linux (Ubuntu), Bash, WireGuard, Foxpass, and Git
+    *  Cloud Providers: AWS (IAM, VPC, EC2, ALB, and Aurora MySQL), DigitalOcean, Vultr, Equinix Metal (Packet)
+
+    *  Tech Stack: Ansible,  Vagrant, VirtualBox, Linux (Ubuntu), Bash, WireGuard, Foxpass, and Git
 
 *InfoSec Administrator (08/19 - Present)*
 

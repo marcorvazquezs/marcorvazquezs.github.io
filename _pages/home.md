@@ -42,7 +42,19 @@ __Rubica, Inc. - *Seattle, WA*__
    *  Cloud Providers: AWS (IAM, VPC, EC2, ALB, and Aurora MySQL), DigitalOcean, Vultr, Equinix Metal (Packet)
    *  Tech Stack: Ansible,  Vagrant, VirtualBox, Linux (Ubuntu), Bash, WireGuard, Foxpass, and Git
 
-*InfoSec Administrator (08/19 - Present)*
+  __*InfoSec Administrator (08/19 - Present)*__
+   
+   *  Architected and maintained internal networks
+   *  Oversaw Rubica's internal BC/DR processes
+   *  Oversaw Rubica's ISO 27001 compliance program
+   *  Led ISO 27001 Surveillance 1 audit process
+   *  Produced documentation necessary for compliance validation
+   *  Worked closely with external vendors that support the technical infrastructure of the company
+   *  Performed security vetting for applications and services to be used by the company
+   *  Ensured teams operated in a secure environment with tools necessary to accomplish their goals
+   *  Ensured InfoSec compliance procedures and security best practices were being followed
+   *  Monitored for CVE vulnerabilities and security alerts
+   *  Served as a technical resource as it relates to infrastructure, hosting providers, and cloud services
 
 *TechOps Specialist (01/19 - 07/19)*
 

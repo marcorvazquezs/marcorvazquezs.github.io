@@ -278,8 +278,8 @@ defaults:
       comments: # true
       share: true
       related: true
-    header: 
-      overlay_image: /images/networkss-002.jpg
+      header: 
+        overlay_image: /images/networkss-002.jpg
 
   #_pages
   - scope: 
@@ -288,6 +288,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-    header: 
-      overlay_image: /images/networkss-002.jpg
+      header: 
+        overlay_image: /images/networkss-002.jpg
 

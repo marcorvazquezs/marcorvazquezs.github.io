@@ -3,7 +3,12 @@ title: "About Me"
 layout: single
 permalink: /
 author_profile: true 
+
+header: 
+  overlay_image: ../images/networks-002.jpg
 ---
+
+
 
 I am an IT Professional with a passion for technology and cybersecurity. 
 I enjoy tackling new challenges, learning new technologies, and finding as well as automating solutions to problems. I am constantly learning and expanding my skill set.  

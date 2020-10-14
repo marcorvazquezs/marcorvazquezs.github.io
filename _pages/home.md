@@ -5,7 +5,7 @@ permalink: /
 author_profile: true 
 
 header: 
-  overlay_image: /images/networks-002.jpg
+  overlay_image: /images/networkss-002.jpg
 ---
 
 

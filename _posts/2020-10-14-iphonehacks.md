@@ -4,13 +4,14 @@ title: "Six ways they can still hack your iPhone"
 date: 2020-09-17
 ---
 
-Originally published on the Rubica blog and MSP Insights.
+*Originally published on the Rubica blog and MSP Insights.*
 
 You’ve heard someone say “But I have an iPhone. I know I’m secure.” When choosing devices, security-forward tech pros tend to choose Apple products because of their control over the entire supply chain, including the App Store. It’s one of the many reasons people think it’s easier to secure an iPhone versus an Android device. Last year, however, there were about as many attacks targeting iPhone as Android, and any exploited vulnerabilities are likely to affect all iOS users because of that single supply chain. Android has different manufacturers sharing the same platform, so it’s harder to find a vulnerability that will work across the entire ecosystem.
 
 All the more reason you should be protecting iPhones with an extra layer of security. At Rubica we specialize in plugging security holes for customers and companies so that they can work from anywhere. Having a hardened iPhone makes that possible, so here’s what we tell our IT staff to watch.
 
-Six Steps to secure an iPhone
+_Six Steps to secure an iPhone_
+
 1. Only download the apps you really need
 Choose apps carefully.
 Last year the App Store had to purge apps that contained malware on several occasions; any of these could take down a business that isn’t running security on each employee device.

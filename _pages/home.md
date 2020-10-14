@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am an IT Professional with a passion for technology and cybersecurity. 
-I enjoy tackling new challenges, learning new technologies, finding solutions to problems and constantly improving my skills. 
+I enjoy tackling new challenges, learning new technologies, and finding as well as automating solutions to problems. I am constantly learning and expanding my skill set.  
 
 I am a goal driven person, always striving towards bigger and more ambitious goals. 
 

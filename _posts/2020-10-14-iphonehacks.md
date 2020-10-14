@@ -16,11 +16,11 @@ __Six Steps to secure an iPhone__
 
 __1. Only download the apps you really need.__
 
-__Choose apps carefully.__
+&nbsp;__Choose apps carefully.__
 
   *  Last year the App Store had to purge apps that contained malware on several occasions; any of these could take down a business that isn’t running security on each employee device.
 
-__Do a moment of research.__
+&nbsp;__Do a moment of research.__
 
   *  Does it look legit? Are there enough good reviews? Is it free? Be especially cautious with app permissions that will try to request access to sensitive content like your device camera, microphone, and location data. Ensure you’re only giving apps permission to things they need to function.
 

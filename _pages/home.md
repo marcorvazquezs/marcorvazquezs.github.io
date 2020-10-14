@@ -56,12 +56,24 @@ __Rubica, Inc. - *Seattle, WA*__
    *  Monitored for CVE vulnerabilities and security alerts
    *  Served as a technical resource as it relates to infrastructure, hosting providers, and cloud services
 
-*TechOps Specialist (01/19 - 07/19)*
+  __*TechOps Specialist (01/19 - 07/19)*__
 
+   *  Provided Tier 1 / Tier 2 troubleshooting and network security support
+   *  Developed, documented, and managed the process of supporting the IT environment
+   *  Managed the following applications: Okta, Slack, JIRA, Confluence, Tresorit and O365
+   *  Performed employee onboarding and offboarding
+   *  Documented the company's technology architecture
+   *  Provided essential technical support for employees
+   *  Assisted the internal InfoSec team and Cyber Operations team with cybersecurity initiatives
 
 __Office of the State Courts Administrator - *Tallahassee, FL*__
 
-*Senior User Support Analyst (03/15 - 01/19)*
+  __*Senior User Support Analyst (03/15 - 01/19)*__
+
+   *  Provided support for employees and their technical equipment
+   *  Troubleshooted and repaired various pieces of hardware
+   *  Developed and managed a new ticketing system using Zendesk
+
 
 ## Education 
 

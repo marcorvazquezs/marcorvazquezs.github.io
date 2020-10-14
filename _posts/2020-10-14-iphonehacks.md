@@ -24,11 +24,13 @@ __Do a moment of research.__
 
   *  Does it look legit? Are there enough good reviews? Is it free? Be especially cautious with app permissions that will try to request access to sensitive content like your device camera, microphone, and location data. Ensure you’re only giving apps permission to things they need to function.
 
+
 __2. Beware public wifi on an iPhone__
 
 __Use a secure VPN__
 
   *  like Rubica to encrypt your traffic. Without it, free or public wifi is by far the greatest security risk to employees and businesses. All of the security controls in iOS can be perfectly functional (and sadly useless) if connecting to a compromised wifi hotspot where attackers love to launch man-in-the-middle attacks. That way attackers can’t see data flowing (such as passwords and other sensitive information) between your device and the hotspot.
+
 
 __3. Use strong iCloud password security__
 
@@ -40,6 +42,7 @@ __Consider a password manager__
 
   * like LastPass or Myki. Strong passwords and multi-factor authentication will make it very difficult to hack your account and prevent subsequent hacks to gain access to your other accounts and any services or identities joined to them.
 
+
 __4. Fresh software updates__
 
 __Don’t defer the update.__
@@ -49,6 +52,7 @@ __Don’t defer the update.__
 __As soon as you see it, install it,__
 
   *  and teach your team to do the same.
+
 
 __5. Ditch the malicious links__
 
@@ -60,6 +64,7 @@ __Use an anti-malware app__
 
   *  because even smart people use their phones when they’re sleepy, and no one is alert 100% of the time. An anti-malware app like Rubica protects against known phishing links and other constantly-evolving malware.
 
+
 __6. Protect your phone number__
 
 __Reserve phone numbers for people only.__
@@ -69,6 +74,6 @@ __Reserve phone numbers for people only.__
 __Get a burner phone number.__
 
   *  Consider strategic use of Google Voice or other burner phone numbers for things like company billing and loyalty programs, restricting your real phone number for only trusted contacts and need-to-know business associates.
-  
+
 The next time you hear a someone saying they don’t need security because they have an iPhone, you’ve got six ways to help them out.
 

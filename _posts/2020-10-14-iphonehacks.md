@@ -2,6 +2,8 @@
 layout: single 
 title: "Six ways they can still hack your iPhone"
 date: 2020-09-17
+header: 
+  overlay_image: /images/apple.png
 ---
 
 *Originally published on the Rubica blog and MSP Insights.*
@@ -10,7 +12,7 @@ You’ve heard someone say “But I have an iPhone. I know I’m secure.” When
 
 All the more reason you should be protecting iPhones with an extra layer of security. At Rubica we specialize in plugging security holes for customers and companies so that they can work from anywhere. Having a hardened iPhone makes that possible, so here’s what we tell our IT staff to watch.
 
-_Six Steps to secure an iPhone_
+__Six Steps to secure an iPhone__
 
 1. Only download the apps you really need
 Choose apps carefully.

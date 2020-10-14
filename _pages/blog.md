@@ -1,7 +1,8 @@
 ---
-title: "Blog and Projects"
+title: "Blogs"
 permalink: /blog/
 author_profile: true
-layout: splash
+layout: archive
 ---
 
+This is my blog page.

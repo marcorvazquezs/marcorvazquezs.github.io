@@ -131,7 +131,7 @@
 .page__hero {
   position: relative;
   margin-bottom: 2em;
-  max-height: 500px;
+  max-height: 700px;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -150,7 +150,7 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
-    max-height: 500px;
+    max-height: 700px;
 
     a {
       color: #fff;
@@ -179,11 +179,6 @@
 
     .page__title {
       font-size: $type-size-2;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      text-align: center;
-      margin: auto;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

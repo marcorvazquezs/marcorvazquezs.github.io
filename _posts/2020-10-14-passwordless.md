@@ -25,9 +25,15 @@ __How passwordless authentication works__
 
 Passwordless authentication relies on public key cryptography. Public key cryptography uses a private key combined with a public key. The private key is never shared, but the public key is shared with the website. Authentication happens when the website sends you a very large random number to encrypt with your private key, then the website decrypts it using the public key. It works because the public key is only able to unlock things that were locked with the private key, therefore confirming your identity.
 
+<img src="{{ site.url }}/images/password1.png" alt="">
+
+
 Public key cryptography is the theory behind this authentication method, but a couple of other pieces (like an API) are needed to make this work in practice. An API is like a waiter in a restaurant: as a customer of the restaurant you are not allowed inside the kitchen, however you are provided with a menu that tells you what the kitchen has available. Next, you place an order with the waiter (the API) which then delivers what you ordered back to you. This is the function of an API, in a nutshell. Embedded JavaScript code on websites use the WebAuthn API (the waiter) to create or get credentials (from the customer) when you want to either sign up or log into a website. The browser then hands this request off to the authenticator, which is the last piece of the puzzle. The authenticator is what generates and secures your private and public key pairs and where the challenge received from the website is encrypted.
 
 Secrets like your private key, fingerprint data, facial recognition, or PIN are only ever shared with the authenticator and never shared with the website on the other end. Authenticator confirms your fingerprint and then passes back the encrypted challenge to the browser which sends it back to the website, and by extension, to the web server. If the server then successfully decrypts the challenge with your public key it authenticates you and allows you to login. From your end you would most likely only see a login button and nothing else, like typing in any passwords or usernames.
+
+<img src="{{ site.url }}/images/password2.png" alt="">
+
 
 __How far away is a passwordless future?__
 

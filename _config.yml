@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Marco Vazquez"
 description              : "Online Resume"
-url                      : #
+url                      : https://marcorvazquez.com
 baseurl                  : #
 repository               : "marcorvazquezs/marcorvazquezs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

@@ -171,7 +171,6 @@
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
-      
     }
 
     .page__lead {
@@ -180,9 +179,6 @@
 
     .page__title {
       font-size: $type-size-2;
-      position: absolute;
-      top: 50%;
-      left: 50%;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

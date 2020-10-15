@@ -6,7 +6,7 @@ header:
   image: /images/Rubica-VPN-protecting-against-malware-versus-antivirus.jpg
 ---
 
-*Originally published in Rubica blog.*
+*Originally published on the Rubica blog.*
 
 In the days of CD-ROMs and dial-up modems, antivirus software was pretty much your only protection against malware. However, changes in how we connect online (especially mobile networking) have rendered antivirus protection ineffective against most malware striking today. If you’re out in the world using your smartphone or laptop, antivirus protection sits at the device level, scanning against computer viruses, worms, trojans and other malicious software. It’s worth noting that most device infections today spread through connectivity, so antivirus as a sole method of security is a partial strategy at best—it really only does one thing.
 

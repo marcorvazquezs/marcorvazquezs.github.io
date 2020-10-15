@@ -1,7 +1,7 @@
 ---
 layout: single 
 title: "Why a passwordless future is closer than you think"
-date: 2020-20-14
+date: 2020-10-14
 header: 
   image: /images/Rubica-passwordless-authentication-.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Blog Posts"
 layout: archive
 permalink: /Blogs/
 author_profile: true

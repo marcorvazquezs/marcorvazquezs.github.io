@@ -10,7 +10,7 @@ header:
 
 In the days when computers cost as much as cars and houses (and were about the same size as a room), people had to share equipment and it became important that files were only accessible to authorized users. MIT security pioneer Fernando “Corby” Corbató solved this problem with the password in the 1960’s. From their inception, passwords were far from perfect but they were simple to implement, quickly becoming the go-to method for computer security in both home and office. Though passwords were first implemented in the 1960’s, hacking as we understand it today didn’t really appear until the 1980’s. However, the present-day threat landscape is an entirely different story that probably needs a more robust solution than a static password.
 
-<img src="{{ site.url }}/assets/images/secure-password" alt="">
+<img src="{{ site.url }}/images/secure-password" alt="">
 
 
 __The inherent flaws in passwords__

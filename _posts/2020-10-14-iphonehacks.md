@@ -2,6 +2,8 @@
 layout: single 
 title: "Six ways they can still hack your iPhone"
 date: 2020-09-17
+header: 
+  image: /images/apple.png
 ---
 
 *Originally published on the Rubica blog and MSP Insights.*

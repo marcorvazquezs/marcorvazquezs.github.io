@@ -137,6 +137,7 @@
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
   padding-bottom: 50px;
+  height: 500px;
 
   &--overlay {
     position: relative;
@@ -151,6 +152,7 @@
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
     max-height: 500px;
+    height: 500px;
 
     a {
       color: #fff;

@@ -131,7 +131,7 @@
 .page__hero {
   position: relative;
   margin-bottom: 2em;
-  height: 400px ;
+  height: 400px;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -150,6 +150,7 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
+    height: 400px;
 
     a {
       color: #fff;

@@ -179,6 +179,9 @@
 
     .page__title {
       font-size: $type-size-2;
+      position: absolute;
+      top: 50%;
+      left: 50%;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

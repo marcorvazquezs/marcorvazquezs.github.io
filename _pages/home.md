@@ -3,9 +3,6 @@ title: "About Me"
 layout: single
 permalink: /
 author_profile: true 
-
-#header: 
-#  overlay_image: /images/networkss-002.jpg
 ---
 
 
@@ -33,7 +30,7 @@ I am a goal driven person, always striving towards bigger and more ambitious goa
 
 ## Experience 
 
-__Rubica, Inc. - *Seattle, WA*__
+###__Rubica, Inc. - *Seattle, WA*__
 
   __*Cloud Engineer (01/20 - Present)*__
 
@@ -71,7 +68,7 @@ __Rubica, Inc. - *Seattle, WA*__
    *  Provided essential technical support for employees
    *  Assisted the internal InfoSec team and Cyber Operations team with cybersecurity initiatives
 
-__Office of the State Courts Administrator - *Tallahassee, FL*__
+###__Office of the State Courts Administrator - *Tallahassee, FL*__
 
   __*Senior User Support Analyst (03/15 - 01/19)*__
 

@@ -7,7 +7,7 @@ author_profile: true
 header:
   actions: 
     - label: "Download Resume" 
-      url: "{{ site.url }}/images/Marco Vazquez Resume.pdf"
+      url: "{{ site.url }}/download/Marco Vazquez Resume.pdf"
 ---
 
 

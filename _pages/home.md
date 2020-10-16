@@ -4,13 +4,7 @@ excerpt: "Information Security Professional"
 layout: single
 permalink: /
 author_profile: true 
-header:
-  actions: 
-    - label: "Download Resume" 
-      url: "{{ site.url }}/download/Marco Vazquez Resume.pdf"
 ---
-
-
 
 ## Who I Am 
 

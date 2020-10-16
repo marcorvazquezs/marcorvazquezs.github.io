@@ -135,7 +135,7 @@ Type sizes are set in ems to proportional scale as the screen size changes. Larg
 
 ```scss
 /* type scale */
-$type-size-1 : 5em;  // ~39.056px
+$type-size-1 : 4em;  // ~39.056px
 $type-size-2 : 1.953em;  // ~31.248px
 $type-size-3 : 1.563em;  // ~25.008px
 $type-size-4 : 1.25em;   // ~20px

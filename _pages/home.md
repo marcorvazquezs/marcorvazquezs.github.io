@@ -10,13 +10,26 @@ author_profile: true
 
 ## Who I Am 
 
-My name is Marco Vazquez, and I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. I am an IT Professional with a background in techops and cybersecurity. With a proven history of providing my teams, secure seamless productivity experiences, I balance human analysis with automation experience. Exploring cybersecurity's evolving landscape is a daily interest of mine, and I enjoy continuously education—particularly by expanding my InfoSec and Cloud Engineering skillset. 
+My name is Marco Vazquez, and I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. I am an IT Professional with a background in ops and cybersecurity. With a proven history of providing my teams, with secure and seamless productivity experiences. I balance human analysis with automation experience. Exploring cybersecurity's evolving landscape is a daily interest of mine, and I enjoy continuously education—particularly by expanding my InfoSec and Cloud Engineering skillset. 
 
 I have a strong desire to gain more experience in DevSecOps practices because I find the idea of being able to bake security best practices into the rapid-release cycles of modern application and deployment to be fascinating. I believe this field will also allow me to bring my security knowledge into practice while building scalable, secure and reliable infrastructure—giving me the opportunity to bring together two areas I am passionate about, Cybersecurity and Ops. 
 
 ## Skills 
 
+  - Ansible
+  - Git
+  - Bash Scripting
+  - Linux (Ubuntu)
+  - Cloud Providers: AWS, Vultr, DigitalOcean, Packet
+  - Network and System Administration
+  - Information Security Policy & Compliance
 
+## Automation Projects
+
+  - Server backup and firewall cleanup
+  - SSL certificate rotation for AWS RDS
+  - VPN server deployment and configuration
+  - SSH key search and deletion on production servers
 
 ## Experience 
 

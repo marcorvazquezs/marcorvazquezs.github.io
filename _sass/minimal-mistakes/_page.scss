@@ -130,14 +130,14 @@
 
 .page__hero {
   position: relative;
-  max-height: 500px;
+  max-height: 400px;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
   padding-bottom: 50px;
-  height: 500px;
+  height: 400px;
 
   &--overlay {
     position: relative;
@@ -151,8 +151,8 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
-    max-height: 500px;
-    height: 500px;
+    max-height: 400px;
+    height: 400px;
 
     a {
       color: #fff;

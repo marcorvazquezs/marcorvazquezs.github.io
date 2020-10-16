@@ -39,17 +39,17 @@ I am a goal driven person, always striving towards bigger and more ambitious goa
 
 __Rubica, Inc. - *Seattle, WA*__
 
-  __*Cloud Engineer (01/20 - Present)*__
+  *  __*Cloud Engineer (01/20 - Present)*__
 
-  __*InfoSec Administrator (08/19 - Present)*__
+  *  __*InfoSec Administrator (08/19 - Present)*__
    
-  __*TechOps Specialist (01/19 - 07/19)*__
+  *  __*TechOps Specialist (01/19 - 07/19)*__
 
 __Office of the State Courts Administrator - *Tallahassee, FL*__
 
-  __*Senior User Support Analyst (03/15 - 01/19)*__
+  *  __*Senior User Support Analyst (03/15 - 01/19)*__
 
-  __*User Support Intern (07/14 - 03/15)*__
+  *  __*User Support Intern (07/14 - 03/15)*__
 
 ## Education 
 

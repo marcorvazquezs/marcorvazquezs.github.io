@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Blog"
     url: /blogs/
-  - title: "Testimonials"
-    url: /testimonials/
+  - title: "References"
+    url: /references/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

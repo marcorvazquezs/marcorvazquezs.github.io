@@ -24,13 +24,6 @@ I have a strong desire to gain more experience in DevSecOps practices because I 
   - Network and System Administration
   - Information Security Policy & Compliance
 
-## Automation Projects
-
-  - Server backup and firewall cleanup
-  - SSL certificate rotation for AWS RDS
-  - VPN server deployment and configuration
-  - SSH key search and deletion on production servers
-
 ## Experience 
 
 __Rubica, Inc. - *Seattle, WA*__

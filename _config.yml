@@ -287,5 +287,5 @@ defaults:
       layout: single
       author_profile: true
       header: 
-        image: /images/networkss-002.jpg
+        overlay_image: /images/networkss-002.jpg
 

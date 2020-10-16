@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Marco Vazquez"
+excerpt: "Information Security Professional"
 layout: single
 permalink: /
 author_profile: true 
@@ -9,10 +10,10 @@ author_profile: true
 
 ## Who I Am 
 
-I am an IT Professional with a passion for technology and cybersecurity. 
-I enjoy tackling new challenges, learning new technologies, and finding as well as automating solutions to problems. I am constantly learning and expanding my skill set.  
+My name is Marco Vazquez, and I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. During my years in the IT field I've done everything from IT Helpdesk to handling an entire InfoSec program and everything in between. 
 
-I am a goal driven person, always striving towards bigger and more ambitious goals. 
+
+
 
 
 ## What I Do 

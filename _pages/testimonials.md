@@ -1,7 +1,7 @@
 ---
 title: "Testimonials"
 layout: single
-permalink: /testimonials
+permalink: /testimonials/
 author_profile: true 
 ---
 

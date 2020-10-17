@@ -8,7 +8,7 @@
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: 100px;
+  padding-top: 50px;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
@@ -35,6 +35,7 @@
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
+    padding-top: 50px;
     margin-left: 0;
     margin-right: 0;
     width: 100%;

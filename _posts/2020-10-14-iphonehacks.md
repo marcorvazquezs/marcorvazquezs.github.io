@@ -6,6 +6,7 @@ header:
   image: /images/apple.png
   teaser: /images/apple.png
 excerpt: "How iPhones can still be hacked."
+classes: wide
 ---
 
 *Originally published on the Rubica blog and MSP Insights.*

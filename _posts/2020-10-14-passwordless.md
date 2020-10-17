@@ -6,6 +6,7 @@ header:
   image: /images/Rubica-passwordless-authentication-.jpg
   teaser: /images/Rubica-passwordless-authentication-.jpg
 excerpt: "A passwordless future might be closer than you think."
+classes: wide
 ---
 
 *Originally published on the Rubica blog.*

@@ -2,7 +2,7 @@
 title: "Blog Posts"
 layout: collection
 permalink: /blogs/
-collection: portfolio
+collection: posts
 entries_layout: grid
 classes: wide
 

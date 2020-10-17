@@ -265,7 +265,7 @@ compress_html:
     envs: development
 
 collections: 
-  portfolio: 
+  posts: 
     output: true
     permalink: /:collection/:path/
 

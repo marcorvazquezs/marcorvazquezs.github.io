@@ -7,7 +7,7 @@ classes: wide
 author_profile: true 
 ---
 
-## Who I Am 
+## About Me 
 
 My name is Marco Vazquez and I am currently pursuing my Masters in Cybersecurity and Information Assurance from Western Governors University. I am an IT Professional with a background in Ops and Cybersecurity. With a proven history of providing my teams with secure and seamless productivity experiences, I balance human analysis with automation experience. Exploring cybersecurity's evolving landscape is a daily interest of mine and I enjoy continuous education—particularly by expanding my InfoSec and Cloud Engineering skillset. 
 

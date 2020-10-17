@@ -5,6 +5,7 @@ date: 2020-10-14
 header: 
   image: /images/Rubica-VPN-protecting-against-malware-versus-antivirus.jpg
   teaser: /images/Rubica-VPN-protecting-against-malware-versus-antivirus.jpg
+excerpt: "Why antivirus is not enough anymore."
 ---
 
 *Originally published on the Rubica blog.*

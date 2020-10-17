@@ -5,6 +5,7 @@ date: 2020-09-17
 header: 
   image: /images/apple.png
   teaser: /images/apple.png
+excerpt: "How iPhones can still be hacked."
 ---
 
 *Originally published on the Rubica blog and MSP Insights.*

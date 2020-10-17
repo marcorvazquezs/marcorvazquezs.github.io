@@ -3,6 +3,7 @@ title: "Marco Vazquez"
 excerpt: "Information Security Professional"
 layout: single
 permalink: /
+classes: wide
 author_profile: true 
 ---
 

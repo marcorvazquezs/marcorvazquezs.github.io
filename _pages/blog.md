@@ -4,6 +4,8 @@ layout: collection
 permalink: /blogs/
 collection: portfolio
 entries_layout: grid
+classes: wide
+
 #author_profile: true
 ---
 

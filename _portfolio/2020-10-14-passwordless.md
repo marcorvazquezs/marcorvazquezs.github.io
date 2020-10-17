@@ -5,6 +5,7 @@ date: 2020-10-14
 header: 
   image: /images/Rubica-passwordless-authentication-.jpg
   teaser: /images/Rubica-passwordless-authentication-.jpg
+excerpt: "A passwordless future might be closer than you think."
 ---
 
 *Originally published on the Rubica blog.*

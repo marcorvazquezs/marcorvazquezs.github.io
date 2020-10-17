@@ -264,6 +264,10 @@ compress_html:
   ignore:
     envs: development
 
+collections: 
+  portfolio: 
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -288,4 +292,14 @@ defaults:
       author_profile: true
       header: 
         overlay_image: /images/networkss-002.jpg
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 

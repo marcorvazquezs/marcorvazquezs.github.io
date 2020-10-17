@@ -1,8 +1,11 @@
 ---
 title: "Blog Posts"
-layout: archive
+layout: collection
 permalink: /blogs/
-author_profile: true
+collection: portfolio
+entries_layout: grid
+classes: wide
+#author_profile: true
 ---
 
 {% for post in site.posts %}

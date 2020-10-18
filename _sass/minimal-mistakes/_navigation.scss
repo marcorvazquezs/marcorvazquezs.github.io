@@ -8,11 +8,11 @@
 
 .breadcrumbs {
   @include clearfix;
-  margin: 30px auto 0px;
+  margin: 0 auto;
   max-width: 100%;
   padding-left: 1em;
   padding-right: 1em;
-  padding-top: 20px;
+  padding-top: 30px;
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;

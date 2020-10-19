@@ -5,7 +5,7 @@ date: 2020-10-18
 excerpt: "Quick example of how to make separate docker containers work together."
 ---
 
-<p class="notice--info">"The script and Dockerfile used in this demo can be found in my " <a href="https://github.com/marcorvazquezs/Docker/tree/main/Counter_Web_App">GitHub</a>.</p>
+<p class="notice--info">The script and Dockerfile used in this demo can be found in my <a href="https://github.com/marcorvazquezs/Docker/tree/main/Counter_Web_App">Docker</a> repo in GitHub.</p>
 
 
 ## AWS Setup Steps 

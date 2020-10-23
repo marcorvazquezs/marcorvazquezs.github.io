@@ -16,6 +16,7 @@ I have a strong desire to gain more experience in DevSecOps practices because I 
 ## Skills 
 
   - Ansible
+  - Docker
   - Git
   - Bash Scripting
   - Linux (Ubuntu)

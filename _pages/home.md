@@ -15,13 +15,14 @@ I have a strong desire to gain more experience in DevSecOps practices because I 
 
 ## Skills 
 
+  - Network and System Administration
+  - OS: macOS, Windows, Linux (Ubuntu)
   - Ansible
   - Docker
   - Git
   - Bash Scripting
-  - Linux (Ubuntu)
+  - Python
   - Cloud Providers: AWS, Vultr, DigitalOcean, Packet
-  - Network and System Administration
   - Information Security Policy & Compliance
 
 ## Experience 

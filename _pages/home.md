@@ -29,9 +29,9 @@ I have a strong desire to gain more experience in DevSecOps practices because I 
 
 __Rubica, Inc. - *Seattle, WA*__
 
-  -  __*Cloud Engineer (01/2020 - Present)*__
+  -  __*Cloud Engineer (01/2020 - 10/2020)*__
 
-  -  __*InfoSec Administrator (08/2019 - Present)*__
+  -  __*InfoSec Administrator (08/2019 - 10/2020)*__
    
   -  __*TechOps Specialist (01/2019 - 07/2019)*__
 

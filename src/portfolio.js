@@ -177,7 +177,7 @@ const workExperiences = {
       role: "Lead Cybersecurity Instructor",
       company: "Code Fellows",
       companylogo: require("./assets/images/CF.png"),
-      date: "November 2021 – Present",
+      date: "Nov 2021 – Present",
       desc: "Develop and implement comprehensive cybersecurity training program, encompassing topics such as network security, incident response and ethical hacking.",
       descBullets: [
         "Stay up-to-date with the latest cybersecurity threats, trends, and technologies through continuous research and professional development activities",
@@ -185,18 +185,32 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "System Engineer",
+      company: "DomainTools",
+      companylogo: require("./assets/images/domaintools.png"),
+      date: "Dec 2020 – Nov 2021",
+      desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Cloud Engineer",
+      company: "Rubica",
+      companylogo: require("./assets/images/rubica.png"),
+      date: "Jan 2020 – Oct 2020",
+      desc: "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
+    },
+    {
+      role: "Information Security Administrator",
+      company: "Rubica",
+      companylogo: require("./assets/images/rubica.png"),
+      date: "Jan 2019 – Oct 2020",
+      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
+    },
+    {
+      role: "Senior User Support Analyst",
+      company: "Florida Supreme Court",
+      companylogo: require("./assets/images/FSC.png"),
+      date: "July 2014 – Jan 2019",
+      desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner."
     }
   ]
 };

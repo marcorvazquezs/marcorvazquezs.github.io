@@ -128,21 +128,21 @@ const educationInfo = {
     {
       schoolName: "Western Governors University",
       logo: require("./assets/images/wgu_seal.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      subHeader: "Master of Science in Cybersecurity and Information Assurance",
+      //duration: "September 2017 - April 2019",
+      //desc: "Participated in the research of XXX and published 3 papers.",
+      //descBullets: [
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Western Governors University",
+      logo: require("./assets/images/wgu_seal.png"),
+      subHeader: "Bachelor of Science in Network Operations and Security",
+      //duration: "September 2013 - April 2017",
+      //desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
@@ -158,7 +158,7 @@ const techStack = {
     },
     {
       Stack: "PowerShell",
-      progressPercentage: "40%"
+      progressPercentage: "50%"
     },
     {
       Stack: "Python",

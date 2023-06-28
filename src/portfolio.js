@@ -90,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Bash",
-      fontAwesomeClassname: "fas fa-square-terminal"
+      fontAwesomeClassname: "fas fa-code-simple"
     },
     {
       skillName: "Python",
@@ -98,7 +98,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PowerShell",
-      fontAwesomeClassname: "fas fa-square-code"
+      fontAwesomeClassname: "fas fa-code-simple"
     },
     {
       skillName: "AWS",

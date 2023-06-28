@@ -23,7 +23,7 @@ const greeting = {
   username: "Marco Vazquez",
   title: "Hi all, I'm Marco",
   subTitle: emoji(
-    "An experienced cybersecurity professional with close to 10 years of expertise in systems engineering, InfoSec administration, and leading cybersecurity instruction."
+    "An experienced cybersecurity professional with close to 10 years of expertise in systems engineering, information security administration, and leading cybersecurity instruction."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1QoAHS3v_Cw_MNEA-flJ84vOx_4Kfi5Rx/view?usp=sharing", // Set to empty to hide the button
@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "VSCode",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "git",
@@ -90,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Bash",
-      fontAwesomeClassname: "fab fa-square-terminal"
+      fontAwesomeClassname: "fas fa-square-terminal"
     },
     {
       skillName: "Python",
@@ -98,7 +98,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PowerShell",
-      fontAwesomeClassname: "fab fa-square-code"
+      fontAwesomeClassname: "fas fa-square-code"
     },
     {
       skillName: "AWS",
@@ -153,16 +153,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Bash", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "PowerShell",
+      progressPercentage: "40%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "60%"
+      Stack: "Python",
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false

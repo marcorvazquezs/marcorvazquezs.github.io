@@ -74,7 +74,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "macOS",
-      fontAwesomeClassname: "fas fa-apple"
+      fontAwesomeClassname: "fab fa-apple"
     },
     {
       skillName: "VSCode",

@@ -174,14 +174,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Lead Cybersecurity Instructor",
+      company: "Code Fellows",
+      companylogo: require("./assets/images/CF.png"),
+      date: "November 2021 – Present",
+      desc: "Develop and implement comprehensive cybersecurity training program, encompassing topics such as network security, incident response and ethical hacking.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Stay up-to-date with the latest cybersecurity threats, trends, and technologies through continuous research and professional development activities",
+        "Fostered a collaborative learning environment by facilitating discussions, group projects, and knowledge sharing among students."
       ]
     },
     {

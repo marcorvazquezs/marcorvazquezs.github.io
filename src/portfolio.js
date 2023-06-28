@@ -69,53 +69,53 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Windows",
+      fontAwesomeClassname: "fab fa-windows"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "macOS",
+      fontAwesomeClassname: "fas fa-apple"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "VSCode",
+      fontAwesomeClassname: "fab fa-code"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "GitHub",
+      fontAwesomeClassname: "fab fa-github"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "Bash",
+      fontAwesomeClassname: "fab fa-square-terminal"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "PowerShell",
+      fontAwesomeClassname: "fab fa-square-code"
+    },
+    {
+      skillName: "AWS",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "Virtualization",
+      fontAwesomeClassname: "fas fa-desktop"
+    },
+    {
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
-    }
+    },
+    {
+      skillName: "Jira",
+      fontAwesomeClassname: "fab fa-jira"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -126,8 +126,8 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
+      schoolName: "Western Governors University",
+      logo: require("./assets/images/wgu_seal.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",

@@ -196,7 +196,7 @@ const workExperiences = {
       company: "Rubica",
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
-      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
+      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
     }
   ]
 };

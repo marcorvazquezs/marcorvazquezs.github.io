@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e1089ee3.css",
-    "main.js": "/static/js/main.8e216528.js",
+    "main.js": "/static/js/main.cc500def.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.306cba59.chunk.js": "/static/js/64.306cba59.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.8868d4fa.chunk.js": "/static/js/769.8868d4fa.chunk.js",
+    "static/js/769.e75def40.chunk.js": "/static/js/769.e75def40.chunk.js",
     "static/media/FSC.png": "/static/media/FSC.d41a6e08bd96107cae56.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/wgu_seal.png": "/static/media/wgu_seal.34675b00d48ce18b7c50.png",
@@ -28,14 +28,14 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.e1089ee3.css.map": "/static/css/main.e1089ee3.css.map",
-    "main.8e216528.js.map": "/static/js/main.8e216528.js.map",
+    "main.cc500def.js.map": "/static/js/main.cc500def.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.306cba59.chunk.js.map": "/static/js/64.306cba59.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.8868d4fa.chunk.js.map": "/static/js/769.8868d4fa.chunk.js.map"
+    "769.e75def40.chunk.js.map": "/static/js/769.e75def40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1089ee3.css",
-    "static/js/main.8e216528.js"
+    "static/js/main.cc500def.js"
   ]
 }

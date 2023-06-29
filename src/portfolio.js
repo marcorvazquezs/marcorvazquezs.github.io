@@ -194,7 +194,7 @@ const workExperiences = {
       date: "Jan 2019 – Oct 2020",
       desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
       descBullets: [
-        "Implemented infrastructure-as-code (IaC) practices using tools like Terraform or CloudFormation, enabling the provisioning and management of cloud resources in an automated and consistent manner."
+        "Implemented infrastructure-as-code (IaC) practices using tools like Terraform and Ansible, enabling the provisioning and management of cloud resources in an automated and consistent manner."
       ]
     },
     {

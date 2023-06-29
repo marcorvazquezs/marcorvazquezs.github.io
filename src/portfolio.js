@@ -49,15 +49,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "TECH ENTHUSIAST OBSESSED WITH ALL THING CYBER",
+  subTitle: "TECH ENTHUSIAST OBSESSED WITH ALL THINGS CYBER",
   skills: [
-    emoji(
-      "⚡ Implement robust security measures to safeguard critical assets"
-    ),
+    emoji("⚡ Implement robust security measures to safeguard critical assets"),
     emoji("⚡ Build, configure and maintain complex infrastructure"),
-    emoji(
-      "⚡ Develop and deliver comprehensive cybersecurity training"
-    )
+    emoji("⚡ Develop and deliver comprehensive cybersecurity training")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -115,7 +111,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Jira",
       fontAwesomeClassname: "fab fa-jira"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -128,7 +124,7 @@ const educationInfo = {
     {
       schoolName: "Western Governors University",
       logo: require("./assets/images/wgu_seal.png"),
-      subHeader: "Master of Science in Cybersecurity and Information Assurance",
+      subHeader: "Master of Science in Cybersecurity and Information Assurance"
       //duration: "September 2017 - April 2019",
       //desc: "Participated in the research of XXX and published 3 papers.",
       //descBullets: [
@@ -139,7 +135,7 @@ const educationInfo = {
     {
       schoolName: "Western Governors University",
       logo: require("./assets/images/wgu_seal.png"),
-      subHeader: "Bachelor of Science in Network Operations and Security",
+      subHeader: "Bachelor of Science in Network Operations and Security"
       //duration: "September 2013 - April 2017",
       //desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]

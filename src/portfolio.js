@@ -177,7 +177,7 @@ const workExperiences = {
       desc: "Develop and implement comprehensive cybersecurity training program, encompassing topics such as network security, incident response and ethical hacking.",
       descBullets: [
         "Stay up-to-date with the latest cybersecurity threats, trends, and technologies through continuous research and professional development activities",
-        "Fostered a collaborative learning environment by facilitating discussions, group projects, and knowledge sharing among students."
+        "Foster a collaborative learning environment by facilitating discussions, group projects, and knowledge sharing among students."
       ]
     },
     {
@@ -188,18 +188,14 @@ const workExperiences = {
       desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance."
     },
     {
-      role: "Cloud Engineer",
-      company: "Rubica",
-      companylogo: require("./assets/images/rubica.png"),
-      date: "Jan 2020 – Oct 2020",
-      desc: "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
-    },
-    {
-      role: "Information Security Administrator",
+      role: "Information Security Administrator / Cloud Engineer",
       company: "Rubica",
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
-      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
+      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
+      descBullets: [
+        "Implemented infrastructure-as-code (IaC) practices using tools like Terraform or CloudFormation, enabling the provisioning and management of cloud resources in an automated and consistent manner."
+      ]
     },
     {
       role: "Senior User Support Analyst",
@@ -257,8 +253,8 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  //subtitle:
+  // "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
@@ -410,7 +406,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+//const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,

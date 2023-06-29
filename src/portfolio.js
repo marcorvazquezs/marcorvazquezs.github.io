@@ -197,9 +197,6 @@ const workExperiences = {
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
       desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
-      descBullets: [
-        "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
-      ]
     }
   ]
 };

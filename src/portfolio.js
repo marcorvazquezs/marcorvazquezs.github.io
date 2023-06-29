@@ -271,41 +271,67 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://www.credly.com/badges/acc80555-21a7-4ab7-8589-621823ffaa62/public_url"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      title: "Certified Ethical Hacker",
+      // subtitle:
+      //  "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      image: require("./assets/images/CEH_Badge.png"),
+      imageAlt: "EC-Council CEH",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://www.credly.com/org/ec-council/badge/certified-ethical-hacker-ceh"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "CompTIA Security+",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/SecurityPlus Logo Certified CE.png"),
+      imageAlt: "CompTIA Sec+",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Certification", 
+          url: "https://www.credly.com/badges/11711c6d-22f6-4f9a-af0e-d6ab77d290ff/public_url"
+        }
+      ]
+    },
+    {
+      title: "Cisco CCNA Security",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/cisco_ccna_security.png"),
+      imageAlt: "Cisco CCNA Security",
+      footerLink: [
+        {
+          name: "Certification", 
+          url: "https://www.credly.com/badges/2c773de8-31da-4a07-a111-51390c657f45/public_url"
+        }
+      ]
+    },
+    {
+      title: "Cisco CCNA R&S",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/ccna_R_26S.png"),
+      imageAlt: "Cisco CCNA R&S",
+      footerLink: [
+        {
+          name: "Certification", 
+          url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
+        }
+      ]
+    },
+    {
+      title: "CompTIA Net+",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/NetworkPlus Logo Certified CE.png"),
+      imageAlt: "CompTIA Net+",
+      footerLink: [
+        {
+          name: "Certification", 
+          url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
         }
       ]
     }

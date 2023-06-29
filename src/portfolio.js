@@ -23,7 +23,7 @@ const greeting = {
   username: "Marco Vazquez",
   title: "Hi all, I'm Marco",
   subTitle: emoji(
-    "An experienced cybersecurity professional with close to 10 years of expertise in systems engineering, information security administration, and leading cybersecurity instruction."
+    "An experienced cybersecurity professional with 10 years of expertise in systems engineering, information security administration, and leading cybersecurity instruction."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1QoAHS3v_Cw_MNEA-flJ84vOx_4Kfi5Rx/view?usp=sharing", // Set to empty to hide the button
@@ -48,7 +48,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "Skills",
   subTitle: "TECH ENTHUSIAST OBSESSED WITH ALL THINGS CYBER",
   skills: [
     emoji("⚡ Implement robust security measures to safeguard critical assets"),
@@ -94,7 +94,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PowerShell",
-      fontAwesomeClassname: "fas fa-terminal"
+      fontAwesomeClassname: "fas fa-gear"
     },
     {
       skillName: "AWS",
@@ -175,10 +175,6 @@ const workExperiences = {
       companylogo: require("./assets/images/CF.png"),
       date: "Nov 2021 – Present",
       desc: "Develop and implement comprehensive cybersecurity training program, encompassing topics such as network security, incident response and ethical hacking.",
-      descBullets: [
-        "Stay up-to-date with the latest cybersecurity threats, trends, and technologies through continuous research and professional development activities",
-        "Foster a collaborative learning environment by facilitating discussions, group projects, and knowledge sharing among students."
-      ]
     },
     {
       role: "System Engineer",
@@ -186,9 +182,6 @@ const workExperiences = {
       companylogo: require("./assets/images/domaintools.png"),
       date: "Dec 2020 – Nov 2021",
       desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance.",
-      descBullets: [
-        "Designed, implemented, and maintained robust and scalable infrastructure solutions, ensuring high availability and optimal performance."
-      ]
     },
     {
       role: "Information Security Administrator / Cloud Engineer",
@@ -196,9 +189,6 @@ const workExperiences = {
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
       desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
-      descBullets: [
-        "Implemented infrastructure-as-code (IaC) practices using tools like Terraform and Ansible, enabling the provisioning and management of cloud resources in an automated and consistent manner."
-      ]
     },
     {
       role: "Senior User Support Analyst",
@@ -206,9 +196,6 @@ const workExperiences = {
       companylogo: require("./assets/images/FSC.png"),
       date: "July 2014 – Jan 2019",
       desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner.",
-      descBullets: [
-        "Acted as a liaison between end-users and IT teams, effectively communicating technical information in non-technical terms and ensuring user needs are understood and addressed."
-      ]
     }
   ]
 };
@@ -272,7 +259,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.credly.com/badges/acc80555-21a7-4ab7-8589-621823ffaa62/public_url"
+          //url: "https://www.credly.com/badges/acc80555-21a7-4ab7-8589-621823ffaa62/public_url"
         }
       ]
     },
@@ -285,7 +272,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.credly.com/org/ec-council/badge/certified-ethical-hacker-ceh"
+          //url: "https://www.credly.com/org/ec-council/badge/certified-ethical-hacker-ceh"
         }
       ]
     },
@@ -297,7 +284,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification", 
-          url: "https://www.credly.com/badges/11711c6d-22f6-4f9a-af0e-d6ab77d290ff/public_url"
+          //url: "https://www.credly.com/badges/11711c6d-22f6-4f9a-af0e-d6ab77d290ff/public_url"
         }
       ]
     },
@@ -309,7 +296,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification", 
-          url: "https://www.credly.com/badges/2c773de8-31da-4a07-a111-51390c657f45/public_url"
+          //url: "https://www.credly.com/badges/2c773de8-31da-4a07-a111-51390c657f45/public_url"
         }
       ]
     },
@@ -321,7 +308,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification", 
-          url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
+          //url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
         }
       ]
     },
@@ -333,7 +320,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification", 
-          url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
+          //url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
         }
       ]
     }

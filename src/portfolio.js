@@ -192,25 +192,14 @@ const workExperiences = {
       desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance."
     },
     {
-      role: "Cloud Engineer",
-      company: "Rubica",
-      companylogo: require("./assets/images/rubica.png"),
-      date: "Jan 2020 – Oct 2020",
-      desc: "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
-    },
-    {
       role: "Information Security Administrator",
       company: "Rubica",
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
-      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
-    },
-    {
-      role: "Senior User Support Analyst",
-      company: "Florida Supreme Court",
-      companylogo: require("./assets/images/FSC.png"),
-      date: "July 2014 – Jan 2019",
-      desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner."
+      desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices.",
+      descBullets: [
+        "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
+      ]
     }
   ]
 };

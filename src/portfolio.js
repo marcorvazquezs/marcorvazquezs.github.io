@@ -188,11 +188,25 @@ const workExperiences = {
       desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance."
     },
     {
+      role: "Cloud Engineer",
+      company: "Rubica",
+      companylogo: require("./assets/images/rubica.png"),
+      date: "Jan 2020 – Oct 2020",
+      desc: "Designed, implemented, and managed cloud infrastructure solutions ensuring scalability, reliability, and cost optimization."
+    },
+    {
       role: "Information Security Administrator",
       company: "Rubica",
       companylogo: require("./assets/images/rubica.png"),
       date: "Jan 2019 – Oct 2020",
       desc: "Developed, implemented, and maintained information security policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
+    },
+    {
+      role: "Senior User Support Analyst",
+      company: "Florida Supreme Court",
+      companylogo: require("./assets/images/FSC.png"),
+      date: "July 2014 – Jan 2019",
+      desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner."
     }
   ]
 };
@@ -201,8 +215,8 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -248,15 +262,15 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      title: "CompTIA CySA+",
+      //subtitle:
+      //  "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      image: require("./assets/images/CySA+ce certified logo.png"),
+      imageAlt: "CompTIA CySA+",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://www.credly.com/badges/acc80555-21a7-4ab7-8589-621823ffaa62/public_url"
         },
         {
           name: "Award Letter",

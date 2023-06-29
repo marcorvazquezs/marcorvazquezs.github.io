@@ -185,7 +185,10 @@ const workExperiences = {
       company: "DomainTools",
       companylogo: require("./assets/images/domaintools.png"),
       date: "Dec 2020 – Nov 2021",
-      desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance."
+      desc: "Designed, implemented, and maintained robust and scalable infrastructure solutions ensuring high availability and optimal performance.",
+      descBullets: [
+        "Designed, implemented, and maintained robust and scalable infrastructure solutions, ensuring high availability and optimal performance."
+      ]
     },
     {
       role: "Information Security Administrator / Cloud Engineer",
@@ -202,7 +205,10 @@ const workExperiences = {
       company: "Florida Supreme Court",
       companylogo: require("./assets/images/FSC.png"),
       date: "July 2014 – Jan 2019",
-      desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner."
+      desc: "Provided technical support and troubleshooting expertise to end-users, resolving complex hardware and software issues in a timely and efficient manner.",
+      descBullets: [
+        "Acted as a liaison between end-users and IT teams, effectively communicating technical information in non-technical terms and ensuring user needs are understood and addressed."
+      ]
     }
   ]
 };

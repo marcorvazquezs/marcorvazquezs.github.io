@@ -94,7 +94,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PowerShell",
-      fontAwesomeClassname: "fas fa-gear"
+      fontAwesomeClassname: "fas fa-laptop-code"
     },
     {
       skillName: "AWS",

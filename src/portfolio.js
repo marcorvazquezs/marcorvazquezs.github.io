@@ -26,7 +26,7 @@ const greeting = {
     "An experienced cybersecurity professional with 10 years of expertise in systems engineering, information security administration, and leading cybersecurity instruction."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1QoAHS3v_Cw_MNEA-flJ84vOx_4Kfi5Rx/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1QoAHS3v_Cw_MNEA-flJ84vOx_4Kfi5Rx/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

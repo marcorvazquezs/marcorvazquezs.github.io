@@ -20,21 +20,21 @@ jobs:
         with:
           persist-credentials: false
     
-       - name: Setup Node.js 🔧
-         uses: actions/setup-node@v3.8.1
-         with:
-           node-version: 18.x
+      - name: Setup Node.js 🔧
+        uses: actions/setup-node@v3.8.1
+        with:
+          node-version: 18.x
     
-       - name: Update npm 🚀
-         run: npm install -g npm@latest
+      - name: Update npm 🚀
+        run: npm install -g npm@latest
     
-       - name: Install and Build 🔧 # Build the Project
-         run: |
+      - name: Install and Build 🔧 # Build the Project
+        run: |
            npm install
            npm run build
-       - name: Deploy 🚀
-         uses: JamesIves/github-pages-deploy-action@v4
-         with:
-           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }} # This is provided by GitHub.
-           BRANCH: gh-pages # The branch the action should deploy to.
-           FOLDER: build # The folder the action should deploy.
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }} # This is provided by GitHub.
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: build # The folder the action should deploy.

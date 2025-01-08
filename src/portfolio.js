@@ -173,7 +173,7 @@ const workExperiences = {
       role: "Lead Cybersecurity Instructor",
       company: "Code Fellows",
       companylogo: require("./assets/images/CF.png"),
-      date: "Nov 2021 – Present",
+      date: "Nov 2021 – Apr 2024",
       desc: "Develop and implement comprehensive cybersecurity training program, encompassing topics such as network security, incident response and ethical hacking.",
     },
     {

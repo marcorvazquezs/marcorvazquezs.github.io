@@ -170,6 +170,12 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Principal Support Engineer",
+      company: "ExtraHop",
+      companylogo: require("./assets/images/extrahop.png"),
+      date: "Apr 2024 - Present" 
+    },
+    {
       role: "Lead Cybersecurity Instructor",
       company: "Code Fellows",
       companylogo: require("./assets/images/CF.png"),

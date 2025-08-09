@@ -153,7 +153,7 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Powershell",
+      Stack: "PowerShell",
       progressPercentage: "50%"
     },
     {

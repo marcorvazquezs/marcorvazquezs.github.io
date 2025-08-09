@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b1d3e593.css",
-    "main.js": "/static/js/main.7b3351c9.js",
+    "main.js": "/static/js/main.a142ccae.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.ea84ee9e.chunk.js": "/static/js/487.ea84ee9e.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -9,17 +9,20 @@
     "static/media/FSC.png": "/static/media/FSC.d41a6e08bd96107cae56.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/wgu_seal.png": "/static/media/wgu_seal.34675b00d48ce18b7c50.png",
-    "static/media/SecurityPlus Logo Certified CE.png": "/static/media/SecurityPlus Logo Certified CE.dcb9fe06e17fb2ca7dc8.png",
-    "static/media/NetworkPlus Logo Certified CE.png": "/static/media/NetworkPlus Logo Certified CE.9550b00eeb73b919906f.png",
+    "static/media/ProjectPlus Logo Certified.png": "/static/media/ProjectPlus Logo Certified.a49d2501aee8ca0a3000.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/CEH_Badge.png": "/static/media/CEH_Badge.ebbe11b3d38e4fea0dc4.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/ccna_R_26S.png": "/static/media/ccna_R_26S.08686b86adfd3edc4458.png",
     "static/media/cisco_ccna_security.png": "/static/media/cisco_ccna_security.08686b86adfd3edc4458.png",
     "static/media/domaintools.png": "/static/media/domaintools.c026b1888694ffb9725a.png",
-    "static/media/CySA+ce certified logo.png": "/static/media/CySA+ce certified logo.b731e0eadd3ec2afb61e.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/A+.png": "/static/media/A+.70b8387c2ac973622f79.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/NetworkPlus Logo Certified CE.png": "/static/media/NetworkPlus Logo Certified CE.d50164d007f12e703347.png",
+    "static/media/SecurityPlus Logo Certified CE.png": "/static/media/SecurityPlus Logo Certified CE.43b0553a9f5b8e866a26.png",
+    "static/media/CySA+ce certified logo.png": "/static/media/CySA+ce certified logo.05edc020a77b8941e153.png",
+    "static/media/PenTest+.png": "/static/media/PenTest+.586ca220b012dfa97eb2.png",
     "static/media/CF.png": "/static/media/CF.9026dd855017239fe47d.png",
     "static/media/rubica.png": "/static/media/rubica.2ebe43e4f6212c5fd833.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -28,7 +31,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b1d3e593.css.map": "/static/css/main.b1d3e593.css.map",
-    "main.7b3351c9.js.map": "/static/js/main.7b3351c9.js.map",
+    "main.a142ccae.js.map": "/static/js/main.a142ccae.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.ea84ee9e.chunk.js.map": "/static/js/487.ea84ee9e.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -36,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.b1d3e593.css",
-    "static/js/main.7b3351c9.js"
+    "static/js/main.a142ccae.js"
   ]
 }

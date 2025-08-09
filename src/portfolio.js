@@ -23,7 +23,7 @@ const greeting = {
   username: "Marco Vazquez",
   title: "Hi all, I'm Marco",
   subTitle: emoji(
-    "An experienced cybersecurity professional with 10 years of expertise in systems engineering, information security administration, and leading cybersecurity instruction."
+    "I'm a seasoned Cybersecurity Professional with over a decade of experience across systems engineering, security administration, and impactful cybersecurity instruction."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1QoAHS3v_Cw_MNEA-flJ84vOx_4Kfi5Rx/view?usp=sharing", // Set to empty to hide the button
@@ -51,9 +51,9 @@ const skillsSection = {
   title: "Skills",
   subTitle: "TECH ENTHUSIAST OBSESSED WITH ALL THINGS CYBER",
   skills: [
-    emoji("⚡ Implement robust security measures to safeguard critical assets"),
-    emoji("⚡ Build, configure and maintain complex infrastructure"),
-    emoji("⚡ Develop and deliver comprehensive cybersecurity training")
+    emoji("⚡ Enhance network security through advanced NDR integration"),
+    emoji("⚡ Deliver impactful cybersecurity training to empower career transitions"),
+    emoji("⚡ Implement security best practices and vulnerability assessments")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -429,7 +429,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me 📬 "),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   email_address: "marcorvazquezs@gmail.com"

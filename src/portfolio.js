@@ -173,7 +173,7 @@ const workExperiences = {
       role: "Principal Support Engineer",
       company: "ExtraHop",
       companylogo: require("./assets/images/extrahop.png"),
-      date: "Apr 2024 - Present" 
+      date: "Apr 2024 - Present", 
     },
     {
       role: "Lead Cybersecurity Instructor",

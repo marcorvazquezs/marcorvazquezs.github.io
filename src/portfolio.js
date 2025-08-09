@@ -173,7 +173,8 @@ const workExperiences = {
       role: "Principal Support Engineer",
       company: "ExtraHop",
       companylogo: require("./assets/images/extrahop.png"),
-      date: "Apr 2024 - Present", 
+      date: "Apr 2024 - Present",
+      desc: "Focus on detections and integration support, helping customers maximize the value of their network detection and response (NDR) solutions." 
     },
     {
       role: "Lead Cybersecurity Instructor",
@@ -257,6 +258,19 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "CompTIA PenTest+",
+      //subtitle:
+      //  "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      image: require("./assets/images/PenTest+.png"),
+      imageAlt: "CompTIA PenTest+",
+      footerLink: [
+        {
+          name: "Certification"
+          //url: "https://www.credly.com/badges/ef1b43eb-3258-4530-a925-8ae0854abc88/public_url"
+        }
+      ]
+    },
+    {
       title: "CompTIA CySA+",
       //subtitle:
       //  "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
@@ -327,6 +341,30 @@ const achievementSection = {
         {
           name: "Certification"
           //url: "https://www.credly.com/badges/5fb97f5b-04e9-4e2f-b9ff-0a05938b36e4/public_url"
+        }
+      ]
+    },
+    {
+      title: "CompTIA A+",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/A+.png"),
+      imageAlt: "CompTIA A+",
+      footerLink: [
+        {
+          name: "Certification"
+          //url: "https://www.credly.com/badges/029324c2-82c8-4b67-9bf4-efaafb463dbd/public_url"
+        }
+      ]
+    },
+    {
+      title: "CompTIA Project+",
+      //subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/ProjectPlus Logo Certified.png"),
+      imageAlt: "CompTIA Project+",
+      footerLink: [
+        {
+          name: "Certification"
+          //url: "https://www.credly.com/badges/4d518b9a-861d-44f1-9028-bd34eefd4146/public_url"
         }
       ]
     }
